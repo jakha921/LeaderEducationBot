@@ -1,2 +1,0 @@
-# LineBet
-telegramBot for BETS
